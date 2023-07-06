@@ -222,3 +222,10 @@ public class UASPRAKPBO {
 
 
 
+
+SCREEN SHOOT OUTPUT :
+![Screenshot 2023-07-06 143101](https://github.com/bintangrizqq/UASPRAKPBO/assets/128135325/4996c876-9d5b-4d78-a799-f4bb8e2300f7)
+![Screenshot 2023-07-06 143107](https://github.com/bintangrizqq/UASPRAKPBO/assets/128135325/83af0e5f-7d5f-41ad-95db-87c99b48f674)
+
+
+
